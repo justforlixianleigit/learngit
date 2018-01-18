@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 bug  hi
 dev  gkp
 
+origin
